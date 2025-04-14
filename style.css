@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-color: #fdf8f4;
+  color: #333;
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+h1 {
+  color: #9c5f83;
+}
+
+a {
+  color: #5a8f7b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
